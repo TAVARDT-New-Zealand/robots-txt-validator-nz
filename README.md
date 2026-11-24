@@ -1,4 +1,4 @@
-# Robots.txt Validator | TAVARDT New Zealand
+# Robots.txt Validator
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/nz/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For recurring audits and real-time robots.txt testing:
 ## New Zealand Digital Architecture Advisory
 
 For crawler governance and compliance with NZ Web Standards and Robots Exclusion Protocol, contact the specialists at **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
