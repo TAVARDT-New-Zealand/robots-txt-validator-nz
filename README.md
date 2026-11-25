@@ -6,8 +6,6 @@
 
 Independent crawl governance and robots.txt audit suite for New Zealand digital assets, checking parser safety and crawler directives.
 
-Engineered and maintained by the digital integrity and search systems division at **TAVARDT**.
-
 ***
 
 ## Robots.txt Audit Capabilities
@@ -38,15 +36,6 @@ python robots_validator.py https://example.co.nz -json
 
 ***
 
-## Online Diagnostic Platform
-
-For recurring audits and real-time robots.txt testing:
-
-* **Official Robots.txt Validator**
-* **TAVARDT Portal**
-
-***
-
 ## New Zealand Digital Architecture Advisory
 
 For crawler governance and compliance with NZ Web Standards and Robots Exclusion Protocol, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For crawler governance and compliance with NZ Web Standards and Robots Exclusion
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
